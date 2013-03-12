@@ -64,6 +64,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/jlo/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/sony/jlo/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+    vendor/sony/jlo/proprietary/lib/libOmxAc3HwDec.so:system/lib/libOmxAc3HwDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxAdpcmDec.so:system/lib/libOmxAdpcmDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxAmrDec.so:system/lib/libOmxAmrDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
@@ -74,6 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/jlo/proprietary/lib/libOmxEvrcHwDec.so:system/lib/libOmxEvrcHwDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
     vendor/sony/jlo/proprietary/lib/libOmxIttiamVdec.so:system/lib/libOmxIttiamVdec.so \
+    vendor/sony/jlo/proprietary/lib/libOmxIttiamVenc.so:system/lib/libOmxIttiamVenc.so \
     vendor/sony/jlo/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/sony/jlo/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/sony/jlo/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
