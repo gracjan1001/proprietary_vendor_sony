@@ -49,10 +49,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/jlo/proprietary/etc/bcm4330/sdio_g_pool_pno_pktfilter_keepalive_wapi_wme_idsup_idauth_apsta_aoe.bin:system/etc/bcm4330/sdio_g_pool_pno_pktfilter_keepalive_wapi_wme_idsup_idauth_apsta_aoe.bin \
     vendor/sony/jlo/proprietary/etc/bcm4330/sdio_g_pool_pno_pktfilter_keepalive_wapi_wme_idsup_idauth_p2p_aoe.bin:system/etc/bcm4330/sdio_g_pool_pno_pktfilter_keepalive_wapi_wme_idsup_idauth_p2p_aoe.bin \
     vendor/sony/jlo/proprietary/etc/bcm4330/sdio_g_pool_pno_pktfilter_keepalive_wapi_wme_idsup_idauth_sta_aoe.bin:system/etc/bcm4330/sdio_g_pool_pno_pktfilter_keepalive_wapi_wme_idsup_idauth_sta_aoe.bin \
-    vendor/sony/jlo/proprietary/etc/firmware/JLO_TMA340_0001.hex:system/etc/firmware/JLO_TMA340_0001.hex \
-    vendor/sony/jlo/proprietary/etc/firmware/JLO_TMA340_0002.hex:system/etc/firmware/JLO_TMA340_0002.hex \
-    vendor/sony/jlo/proprietary/etc/firmware/JLO_TMA340_0003.hex:system/etc/firmware/JLO_TMA340_0003.hex \
     vendor/sony/jlo/proprietary/etc/firmware/JLO_TMA340_0004.hex:system/etc/firmware/JLO_TMA340_0004.hex \
+    vendor/sony/jlo/proprietary/etc/firmware/JLO_TMA340_0006_ELK.hex:system/etc/firmware/JLO_TMA340_0006_ELK.hex \
     vendor/sony/jlo/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/sony/jlo/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/sony/jlo/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
