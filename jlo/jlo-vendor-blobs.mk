@@ -56,7 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/jlo/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/sony/jlo/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/sony/jlo/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
-    vendor/sony/jlo/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/sony/jlo/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/sony/jlo/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/sony/jlo/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
@@ -87,6 +86,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/jlo/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
     vendor/sony/jlo/proprietary/lib/libOmxrv9Dec.so:system/lib/libOmxrv9Dec.so \
+    vendor/sony/jlo/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/sony/jlo/proprietary/lib/lib_get_huk.so:system/lib/lib_get_huk.so \
     vendor/sony/jlo/proprietary/lib/lib_get_rooting_status.so:system/lib/lib_get_rooting_status.so \
     vendor/sony/jlo/proprietary/lib/liballjoyn.so:system/lib/liballjoyn.so \
